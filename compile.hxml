@@ -1,5 +1,5 @@
 -cp src
 -lib heaps
 -lib hlsdl
--hl bin/hello.hl
+-hl bin/hashlink/hello.hl
 -main Main
